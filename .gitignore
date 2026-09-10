@@ -1,0 +1,12 @@
+node_modules/
+secrets/
+*.env
+!.env.example
+data/chunks/
+data/frames/
+data/ocr/
+out/
+*.mp4
+*.png
+!docs/**
+.DS_Store
