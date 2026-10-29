@@ -1,0 +1,8 @@
+{
+  "name": "cloud-weather-bot-automation",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "playwright": "^1.55.0"
+  }
+}
